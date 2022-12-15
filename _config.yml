@@ -21,13 +21,13 @@ author: Chua Teck Lee
 
 navbar-links:
   About Me: "aboutme"
-  Projects:
+  Past Projects:
     - University:
       - Gam200:
       - Gam300:
     - Polytechnic:
       - Holowrex:
-    - Personal Projects:
+    - Personal:
       - Chocolord:
       - Tekinput:
   Contact Me: "contactme"

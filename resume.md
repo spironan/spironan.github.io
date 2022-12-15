@@ -3,6 +3,7 @@ layout: page
 title: Resume
 subtitle: My personal achievements and accolates, bragging rights and why you should hire me all in one page!
 social-share: false
+full-width: true
 ---
 
 <!-- <div class="container">
@@ -22,6 +23,6 @@ social-share: false
 
 <div class="container">
   <div class="pagination">
-    <iframe src="/resume/ChuaTeckLee_Resume_2022.pdf" width="1000" height="960"></iframe>
+      <iframe src="/resume/ChuaTeckLee_Resume_2022.pdf" width="100%" height ="1500" style="border:none;"></iframe>
   </div>
 </div>
