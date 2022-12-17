@@ -23,6 +23,8 @@ full-width: true
 
 <div class="container">
   <div class="pagination">
-      <iframe src="/resume/ChuaTeckLee_Resume_2022.pdf" width="100%" height ="1500" style="border:none;"></iframe>
+      <iframe src="/resume/ChuaTeckLee_Resume_2022.pdf" style="width:100%;height:1500px;border:none;"></iframe>
   </div>
 </div>
+
+<!-- width="100%" height ="1500"  -->
