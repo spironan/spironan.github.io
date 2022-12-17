@@ -21,15 +21,18 @@ author: Chua Teck Lee
 
 navbar-links:
   About Me: "aboutme"
-  Past Projects:
-    - University:
-      - Gam200:
-      - Gam300:
-    - Polytechnic:
-      - Holowrex:
-    - Personal:
-      - Chocolord:
-      - Tekinput:
+  University:
+    - Ouroboros Engine: "https://github.com/GuanHuiLim/Ouroboros-2"
+    - Aesir: "https://github.com/GuanHuiLim/Ouroboros"
+    - Minute: "https://github.com/GuanHuiLim/Ouroboros-2"
+  Polytechnic:
+    - Holowrex:
+    - FYP Minor: "https://github.com/spironan/FinalYearProjectMinor"
+  Personal:
+    - Tekinput: "https://github.com/spironan/TekinputGenerator"
+    - Chocolord: "https://github.com/keroame/sushi"
+    - IGCC: "https://github.com/spironan/IGCC17TeamH"
+    - LSE: "https://github.com/spironan/LotusSutraExhibition"
   Contact Me: "contactme"
   Resume: "resume"
   # Resources:

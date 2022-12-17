@@ -4,6 +4,81 @@ title: Contact Me
 subtitle: Here's how you can reach out to me!
 social-share: false
 ---
+<style>
+/* .form__input {
+  border: 2px solid black;
+  border-radius: 12px;
+  padding: 5px;
+} */
+:root {
+  --heading-font-color: : rgb(17, 16, 22);
+  --background-alt-color: #ffffff;
+  --dark: #000000;
+  --button-background-color: DarkCyan;
+}
+
+.form-box {
+  margin-bottom: 100px;
+}
+.form__group {
+  margin-bottom: 20px;
+}
+.form__input {
+  width: 100%;
+  padding: 20px;
+  font-size: 16px;
+  font-weight: 400;
+  border: 2px solid black;
+  border-radius: 12px;
+  outline: 0;
+  transition: .2s ease-in-out;
+  resize: vertical;
+  color: var(--heading-font-color);
+  background-color: var(--background-alt-color);
+}
+.screen-reader-text {
+  clip: rect(1px, 1px, 1px, 1px);
+  height: 1px;
+  overflow: hidden;
+  position: absolute !important;
+  width: 1px;
+  word-wrap: normal !important;
+}
+
+.button--primary {
+  color: var(--dark);
+  background-color: var(--button-background-color);
+  font-weight: bold;
+}
+
+.button {
+  padding:20px;
+  border-radius: 12px;
+  border: none;
+    border-top-color: currentcolor;
+    border-top-style: none;
+    border-top-width: medium;
+    border-right-color: currentcolor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-bottom-color: currentcolor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentcolor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-image-outset: 0;
+    border-image-repeat: stretch;
+    border-image-slice: 100%;
+    border-image-source: none;
+    border-image-width: 1;
+  text-decoration: none;
+    text-decoration-line: none;
+    text-decoration-style: solid;
+    text-decoration-color: currentcolor;
+    text-decoration-thickness: auto;
+}
+</style>
 
 <div class="form-box">
   <!-- <div class="contact-head">

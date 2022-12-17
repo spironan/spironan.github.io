@@ -21,9 +21,11 @@ full-width: true
   </div>
 </div> -->
 
+<!-- <meta name="viewport" content="width=device-width, initial-scale=1.0"> -->
+
 <div class="container">
   <div class="pagination">
-      <iframe src="/resume/ChuaTeckLee_Resume_2022.pdf" style="width:100%;height:1500px;border:none;"></iframe>
+      <iframe src="/resume/ChuaTeckLee_Resume_2022.pdf" title = "my resume" style="width:100%;height:1500px;border:none;"></iframe>
   </div>
 </div>
 
