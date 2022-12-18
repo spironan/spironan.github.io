@@ -21,18 +21,15 @@ author: Chua Teck Lee
 
 navbar-links:
   About Me: "aboutme"
-  University:
-    - Ouroboros Engine: "https://github.com/GuanHuiLim/Ouroboros-2"
-    - Aesir: "https://github.com/GuanHuiLim/Ouroboros"
-    - Minute: "https://github.com/GuanHuiLim/Ouroboros-2"
-  Polytechnic:
-    - Holowrex:
-    - FYP Minor: "https://github.com/spironan/FinalYearProjectMinor"
-  Personal:
-    - Tekinput: "https://github.com/spironan/TekinputGenerator"
-    - Chocolord: "https://github.com/keroame/sushi"
-    - IGCC: "https://github.com/spironan/IGCC17TeamH"
-    - LSE: "https://github.com/spironan/LotusSutraExhibition"
+  Past Projects:
+    - Tekinput: "/2022-12-17-Tekinput-Generator" #"https://github.com/spironan/TekinputGenerator"
+    - Chocolord: "/2022-12-17-Chocolord" #"https://github.com/keroame/sushi"
+    - Ouroboros 2: "/2022-12-17-Ouroboros2-Engine" #"https://github.com/GuanHuiLim/Ouroboros-2"
+    - Ouroboros: "/2022-12-17-Ouroboros-Engine" #"https://github.com/GuanHuiLim/Ouroboros-2"
+    - Holowrex: "/2022-12-17-Holowrex"
+    - Arbitrium:  "/2022-12-17-Arbitrium"
+    - Phanthom Drive:  "/2022-12-17-Phanthom-Drive" #"https://github.com/spironan/FinalYearProjectMinor"
+    - Trident Wars: "/2022-12-17-Trident-Wars" #"https://github.com/spironan/IGCC17TeamH"
   Contact Me: "contactme"
   Resume: "resume"
   # Resources:
