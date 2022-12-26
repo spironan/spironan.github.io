@@ -28,7 +28,7 @@ navbar-links:
     - Ouroboros: "/2022-12-17-Ouroboros-Engine" #"https://github.com/GuanHuiLim/Ouroboros-2"
     - Holowrex: "/2022-12-17-Holowrex"
     - Arbitrium:  "/2022-12-17-Arbitrium"
-    - Phanthom Drive:  "/2022-12-17-Phanthom-Drive" #"https://github.com/spironan/FinalYearProjectMinor"
+    # - Phanthom Drive:  "/2022-12-17-Phanthom-Drive" #"https://github.com/spironan/FinalYearProjectMinor"
     - Trident Wars: "/2022-12-17-Trident-Wars" #"https://github.com/spironan/IGCC17TeamH"
   Contact Me: "contactme"
   Resume: "resume"

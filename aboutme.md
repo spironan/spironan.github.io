@@ -6,6 +6,8 @@ subtitle: Here's some things you might not know!
 ### Overview
 Hi! My name is Teck Lee. I'm currently a 3rd year undergraduate pursueing my degree in **Computer Science in Real-Time interactive Simulation** at Digipen Singapore and am Projected to Graduate May 2024.  
 
+Currently Seeking a software engineer position for internship/fulltime starting from September 2023.
+
 ### Beliefs
 As a gamer I understand the impact this media can provide and wants to provide fun, memorable and exciting experiences to others!
 
