@@ -8,7 +8,6 @@ share-img: /assets/img/Ouroboros Engine Banner.png
 tags: [Custom Engine, C++, Scripting, Physics, Collision, Triggers]
 ---
 
-# About
 Ouroboros is the game engine created to power my 2 trimester long project in University during my sophomore year(2nd year).
 The game engine was built from the ground up in collaboration with 4 other programmers.
 

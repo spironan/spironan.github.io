@@ -7,9 +7,10 @@ thumbnail-img: /assets/img/TridentWars.png
 share-img: /assets/img/TridentWars.png
 tags: [Unity, Game Jam, International Team, Japan, Australia]
 ---
-# About
-Trident War is a 2 week international game project taking place in japan September 2017. This was a very interesting experience and as i got to work with 3 Japanese students, 1 of which artist and the 2 other programmers and an Australian student masters in sound design.
 
+Trident War is a 2 week international game project taking place in japan September 2017. This was a very interesting experience and as i got to work with 3 Japanese students, 1 of which artist and the 2 other programmers and an Australian masters student specialized in sound design. Our game won the "industry choice" award.
+
+# Development
 During this weeks, we faced many challenges as a team due to communication barriers and getting everyone on the right track. The theme of the competition was Artificial Intelligence and we thought of creating a very simple game based on rock paper scissors.
 
 I actively played a role of guiding everyone in the team design choices and bringing everyone ideas together for discussions, i was also in charge of the game User interface and sound systems together with many iterations of user experience re-design to best fit the buttons for the players ease of use.

@@ -8,7 +8,6 @@ share-img: /assets/img/Arbitrium.jpg
 tags: [Unreal Engine 4, Virtual Reality, SteamVR, Oculus Rift, HTC Vive, Motion Capture]
 ---
 
-# About
 Arbitrium is a Final Year Project Consisting of 5 team members that developed over the course of 4 months with an ambitious goal to make a hyper-realistic immersive experience using the than emerging Cutting Edge Virtual-Reality headsets.  
 
 # Contributions

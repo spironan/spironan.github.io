@@ -10,7 +10,6 @@ gh-repo: spironan/TekinputGenerator
 gh-badge: [star, watch, follow]
 ---
 
-# Background  
 As someone who's passionately involved in the local Tekken 7 (fighting game) scene, i had the luxury to meet content creators like Keith who put out video tutorials and guides on Youtube for teaching and sharing their love of the game.   
 Part of the video editing process requires them to manually stitch up unique strings of inputs to perform a set of moves back-to-back called combos that are unique from one character to another, with seemingly endless potential combinations. The process is arduous and often frowned upon by other creators as it takes a lot of time to do them and can drastically slow down production.
 
