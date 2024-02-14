@@ -22,6 +22,7 @@ author: Chua Teck Lee
 navbar-links:
   About Me: "aboutme"
   Past Projects:
+    - Minute: "/2024-02-10-Minute"
     - Tekinput: "/2022-12-17-Tekinput-Generator" #"https://github.com/spironan/TekinputGenerator"
     - Chocolord: "/2022-12-17-Chocolord" #"https://github.com/keroame/sushi"
     - Ouroboros 2: "/2022-12-17-Ouroboros2-Engine" #"https://github.com/GuanHuiLim/Ouroboros-2"
